@@ -6,10 +6,10 @@ package polymorfism2;
 public class AnimalTest {
     public static void main(String[] args) {
         Animal[] animals = {
-            new Cat("Clover"),
-            new Cat("Catzilla"),
-            new Dog("Dazzler"),
-            new Dog("Dreamweaver")
+            new Cat("katt"),
+            new Cat("katt2"),
+            new Dog("hund"),
+            new Dog("hund2")
             
         };
  
